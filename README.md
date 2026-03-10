@@ -50,3 +50,6 @@ ai-research-assistant/
 - Integration with larger LLMs for detailed answers.
 - Streaming responses for faster feedback.
 - Advanced RAG enhancements using LangChain pipelines.
+
+Licence:
+This project is licensed under MIT licence
